@@ -3,36 +3,19 @@
 ## Redução das Desigualdades
 ### Objetivos de Desenvolvimento Sustentável no Brasil
 
-Uma E-commerce, onde são comercializados produtos a baixo custo e também proximos da validade, visando reduzir a Desigualdade Alimentícia no Brasil.
-
-Esse foi o projeto mais completo até agora! Nessa aplicação, meu grupo foi responsável por criar e integrar tanto o back-end quanto o front-end, criando uma plataforma de delivery de bebidas. 🍻
-
-Neste projeto, nós desenvolvemos um app de delivery para uma distribuidora de bebidas. Veja abaixo como foi feita a distribuição de acessos:
-
-- Consumidor:
-  - Realizar Pedidos
-  - Ver status do pedido
-- Vendedor:
-  - Permissão para cadastro de novos Produtos
-  - Alteração de status de Pedidos
-- Administrador:
-  - Possibilidade para modificar a permissão de acesso dos usuários
-  - Cadastro de novos usuários
-
-
-![smartphone](https://github.com/Brayan-23/Delivery-App/blob/main/Login.gif)
-![smartphone](https://github.com/Brayan-23/Delivery-App/blob/main/Produtos.gif)
-
+Um E-commerce, onde são comercializados produtos a baixo custo e também proximos da validade, visando reduzir a Desigualdade Alimentícia no Brasil.
 
 ## ⚙️ Funcionalidades
 
 ✅ Fazer Login / Cadastro;
 
-✅ Criar uma venda - Cliente;
+✅ Editar, Deletar e Cadastrar um Produto;
 
-✅ Alterar o status da venda - Vendedor;
+✅ Editar, Deletar e Cadastrar Categoria;
 
-✅ Fazer gestão dos usuários do App - Administrador;
+✅ Adicionar ao Carrinho;
+
+✅ Finalizar Compra.
 
 ## :hammer_and_wrench: Ferramentas 
 ### 🍮 BackEnd
@@ -120,13 +103,20 @@ senha: $#zebirita#$ ou --adm2@21!!-- ou fulana@123
 ```
 ## 👨‍💻 Desenvolvedores
 - Brayan Santos
-<div>
-  <a href="https://www.linkedin.com/in/braka/" target="_blank">
-   <img src="/Icons/Linkedin.png" height="50" width="52" alt="javascript logo" tar  />
-  </a>
-</div>
-- [Anderson Santos](https://www.linkedin.com/in/carlos-henryck-dev/)
-- [Ygor Araújo](https://www.linkedin.com/in/eduardosantos0418/)
-- [Thamires Ribeiro](https://www.linkedin.com/in/eduardo-ferreira-da-costa-desenvolvedor/)
-- [Tainara Victória](https://www.linkedin.com/in/david-machado-dev/)
-- [Edevando Alves]
+  [Linkedin](https://www.linkedin.com/in/braka/)
+  [GitHub](https://github.com/Brayan-23)
+- Anderson Santos
+  [Linkedin](https://www.linkedin.com/in/anderson-santos-s-silva/)
+  [GitHub](https://github.com/AndersonSantos07)
+- Ygor Araújo
+  [Linkedin](https://www.linkedin.com/in/ygor-araújo-052824242/)
+  [GitHub](https://github.com/Ygorgen?tab=repositories)
+- Edevando Alves
+  [Linkedin](https://www.linkedin.com/in/edevando-alves/)
+  [GitHub](https://github.com/EdEddAEddy)
+- Tainara Victória
+  [Linkedin](https://www.linkedin.com/in/tainara-santos-58a3201bb)
+  [GitHub](https://github.com/tainaravctr)
+- Thamires Ribeiro
+  [Linkedin](https://www.linkedin.com/in/thamires-ribeiro-cruz/)
+  [GitHub](https://github.com/ThamiresRC)
