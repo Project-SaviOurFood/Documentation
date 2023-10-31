@@ -1,7 +1,8 @@
 
-# 🥝 [SaviOurFood](https://saviourfood.netlify.app/)
-## Redução das Desigualdades
-### Objetivos de Desenvolvimento Sustentável no Brasil
+# 🥝 SaviOurFood 
+## [Link da Aplicação](https://saviourfood.netlify.app/)
+## Objetivos de Desenvolvimento Sustentável no Brasil(ODS)
+### Redução das Desigualdades
 
 Um E-commerce, onde são comercializados produtos a baixo custo e também proximos da validade, visando reduzir a Desigualdade Alimentícia no Brasil.
 
